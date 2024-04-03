@@ -11,7 +11,7 @@ In this example, I'll be using Dolphin-Phi (as it takes up less space) however y
 
 #### Start ollama instance with dolphin-phi locally
 
-```http
+```
   ollama run dolphin-phi
 ```
 
@@ -23,13 +23,13 @@ Once you've cloned this project, run the project using IntelliJ or any code edit
 
 #### Use postman
 
-```http
+```
   GET localhost:8080/ai/helloollama
 ```
 
 #### From terminal
 
-```http
+```
   curl http://localhost:8080/ai/helloollama
 ```
 
